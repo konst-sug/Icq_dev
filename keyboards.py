@@ -4,8 +4,10 @@ st_markup = [
 ]]
 
 cities_markup = [[
-    {"text":"Ленинград","callbackData":"piter"},
-    {"text":"Москва","callbackData":"moscow"}],
-    [{"text":"Берлин","callbackData":"berlin"},
-     {"text":"Самара","callbackData":"samara"}]
+    {"text":"Ленинград","callbackData":"btn1"},
+    {"text":"Москва","callbackData":"btn2"},
+    {"text":"Воронеж","callbackData":"btn3"}],
+    [{"text":"Берлин","callbackData":"btn4"},
+     {"text":"Самара","callbackData":"btn5"},
+     {"text":"Ввести город","callbackData":"btn6"}]
 ]
